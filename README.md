@@ -1,0 +1,1 @@
+I use this repository as a way to train implementation of Convolutional Neural Networks. My objective is to learn both the theory and the implementation process of CNNs, it's dificulties and work arrounds. For this I read some classic papers rocommended in the Stanford's CS231-n course (http://cs231n.stanford.edu/).
